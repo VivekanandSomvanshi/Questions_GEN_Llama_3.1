@@ -3,7 +3,6 @@ langchain
 langchain-core
 langchain-groq
 langchain-community
-pypdf
-PyPDF2
 pandas
 python-dotenv
+streamlit
